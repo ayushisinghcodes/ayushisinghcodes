@@ -13,7 +13,7 @@ $ mission
 > Beginner Level Coder
  
 $ stack
-> Python | MySQL | C | C++ |
+> Python | MySQL | C | C++
 
 $ motto
 > "Write & learn code that thinks."
