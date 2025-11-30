@@ -10,13 +10,13 @@ $ whoami
 > Ayushi Singh
 
 $ mission
-> Automating the world — securely.
+> Beginner Level Coder
  
 $ stack
 > Python | C | C++ |
 
 $ motto
-> "Write code that thinks. Build systems that protect."
+> "Write & learn code that thinks."
 ~~~
 
 ---
